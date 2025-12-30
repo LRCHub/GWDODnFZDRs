@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "gnx",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2025-12-30T14:48:26.525490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gnx",
+      "artist": "Kianush",
+      "has_synced": true,
+      "path": "select/01_Gnx_Kianush.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - gnx (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/02_Kendrick_Lamar_-_gnx_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "gnx",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/03_gnx_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - gnx (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_Kendrick_Lamar_-_gnx_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "gnx",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_gnx_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - gnx (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_Kendrick_Lamar_-_gnx_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - reincarnated (GNX)",
+      "artist": "RAPSTAR",
+      "has_synced": true,
+      "path": "select/07_Kendrick_Lamar_-_reincarnated_(GNX)_RAPSTAR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - luther (GNX)",
+      "artist": "RAPSTAR",
+      "has_synced": true,
+      "path": "select/08_Kendrick_Lamar_-_luther_(GNX)_RAPSTAR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gnx (feat. Hitta J3, YoungThreat & Peysoh)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/09_gnx_(feat._Hitta_J3,_YoungThreat_&_Peysoh)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "gnx (feat. Hitta J3, YoungThreat",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/10_gnx_(feat._Hitta_J3,_YoungThreat_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "gnx",
+      "artist": "Kendrick Lamar feat. Hitta J3, Peysoh, Youngthreat",
+      "has_synced": true,
+      "path": "select/11_gnx_Kendrick_Lamar_feat._Hitta_J3,_Peysoh,_Youngthreat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - reincarnated (GNX)",
+      "artist": "RAPSTAR",
+      "has_synced": true,
+      "path": "select/12_Kendrick_Lamar_-_reincarnated_(GNX)_RAPSTAR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GNX",
+      "artist": "Kendrick Lamar Featuring Hitta J3 , YoungThreat & Peysoh",
+      "has_synced": true,
+      "path": "select/13_GNX_Kendrick_Lamar_Featuring_Hitta_J3_,_YoungThreat_&_Peysoh.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "gnx (feat. Hitta J3, Peysoh & YoungThreat)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_gnx_(feat._Hitta_J3,_Peysoh_&_YoungThreat)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - luther Ft. SZA (GNX)",
+      "artist": "RAPSTAR",
+      "has_synced": true,
+      "path": "select/15_Kendrick_Lamar_-_luther_Ft._SZA_(GNX)_RAPSTAR.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "gnx",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_gnx_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "gnx (feat. Hitta J3, YoungThreat",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/17_gnx_(feat._Hitta_J3,_YoungThreat_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "gnx (feat. YoungThreat, Peysoh & Hitta J3)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/18_gnx_(feat._YoungThreat,_Peysoh_&_Hitta_J3)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "gnx (feat. hitta j3, youngthreat, peysoh)",
+      "artist": "Kendrick Lamar, Hitta J3, YoungThreat, Peysoh",
+      "has_synced": false,
+      "path": "select/pl_01_gnx_(feat._hitta_j3,_youngthreat,_peysoh)_Kendrick_Lamar,_Hitta_J3,_YoungThreat,_Peysoh.txt"
+    }
+  ]
+}
